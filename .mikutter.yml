@@ -1,0 +1,10 @@
+---
+slug: :mikutter-command-message_to_activity
+depends:
+  mikutter: 3.2.0
+  plugin:
+  - command
+version: '0.0.1'
+author: mopguno
+name: mikutter-command-message_to_activity
+description: メッセージ本文を:systemアクティビティとして通知します。なんかをホームTLで通知したいときに。
